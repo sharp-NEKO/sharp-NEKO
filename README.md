@@ -19,7 +19,7 @@ UbuntuベースのカスタムLinuxにKDEを載せて、VScodeやKDevelopで開�
 |Instagram|sharp_NEKO||
 |LINE|-|非公開です|
 
-## 経営しているチーム
+# 経営しているチーム
 私はAblaze(Github:Ablaze_MIRAI)というチームの設立者・代表です。
 Ablazeがやっていること
 - KDEやOnlyOfficeの翻訳
