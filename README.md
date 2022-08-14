@@ -1,7 +1,7 @@
 <div style="text-align: right">
 This is English version
 
-[Japanese](https://github.com/sharp-NEKO/sharp-NEKO/readme-ja.md)
+[Japanese](https://github.com/sharp-NEKO/sharp-NEKO/blob/main/readme-ja.md)
 </div>
 
 # Overviews
