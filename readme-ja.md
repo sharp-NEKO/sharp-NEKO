@@ -1,8 +1,8 @@
-<div style="text-align: right">
-日本語バージョンです。
-
-[English](https://github.com/sharp-NEKO/sharp-NEKO/readme.md)
-</div>
+**Language:**
+[![](https://img.shields.io/badge/-English-55555.svg?style=flat-square&logoColor=ffffff&color=333333)
+](https://github.com/sharp-NEKO/)
+[![](https://img.shields.io/badge/-Japanese-55555.svg?style=flat-square&logoColor=ffffff&color=333333)
+](https://github.com/sharp-NEKO/sharp-NEKO/blob/main/readme-ja.md)
 
 # 概要
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharp-NEKO&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
