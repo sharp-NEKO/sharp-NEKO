@@ -1,7 +1,7 @@
 <div style="text-align: right">
 This is English version
 
-[Japanese](https://github.com/sharp-NEKO/sharp-NEKO/readme-ja)
+[Japanese](https://github.com/sharp-NEKO/sharp-NEKO/readme-ja.md)
 </div>
 
 # Overviews
@@ -34,7 +34,7 @@ Nice to meet you!!🤝
 
 # My skills
 **Web Front**
-\- Make websites.
+\- Mainly, I am fulfilling requests and other tasks that come to me.
 
 [![](https://img.shields.io/badge/-HTML-dd4d25.svg?style=flat-square&logoColor=ffffff)
 ]()
