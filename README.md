@@ -8,7 +8,7 @@ This is English version
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharp-NEKO&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://raw.githubusercontent.com/sharp-NEKO/profile-graph/master/profile-summary-card-output/github/1-repos-per-language.svg)
 
-# 🐈About:me
+# About:me
 [![](https://img.shields.io/badge/Ablaze-Admin-fd8027.svg?style=for-the-badge)
 ](https://ablaze.one)
 [![](https://img.shields.io/twitter/follow/sharp_NEKO?color=1d9bf0&label=Follow&logo=twitter&logoColor=ffffff&style=for-the-badge)
@@ -32,8 +32,8 @@ An Japanese student.
 
 Nice to meet you!!🤝
 
-# 💪My skills
-**🌎Web Front**
+# My skills
+**Web Front**
 \- Make websites.
 
 [![](https://img.shields.io/badge/-HTML-dd4d25.svg?style=flat-square&logoColor=ffffff)
@@ -43,7 +43,7 @@ Nice to meet you!!🤝
 [![](https://img.shields.io/badge/-SCSS-d1639d.svg?style=flat-square&logoColor=ffffff)
 ]()
 
-**🐧Linux**
+**Linux**
 \- I often make linux's softwares with <a href="https://github.com/KDE/kirigami">Kirigami</a>
 And, I was an Linux developer. (nekoLinux)
 
@@ -58,7 +58,7 @@ And, I was an Linux developer. (nekoLinux)
 [![](https://img.shields.io/badge/-develop_distro-55555.svg?style=flat-square&logoColor=ffffff&color=555555)
 ]()
 
-**🟦Windows Apps**
+**Windows Apps**
 
 [![](https://img.shields.io/badge/-Csharp-55555.svg?style=flat-square&logoColor=ffffff&color=555555)
 ]()
@@ -75,7 +75,7 @@ And, I was an Linux developer. (nekoLinux)
 [![](https://img.shields.io/badge/-customize_UI-55555.svg?style=flat-square&logoColor=ffffff&color=555555)
 ]()
 
-**🎺Instrument(?)**
+**Instrument(?)**
 \- I was a brass band member.
 
 [![](https://img.shields.io/badge/-trombone-55555.svg?style=flat-square&logoColor=ffffff&color=ffd770)
