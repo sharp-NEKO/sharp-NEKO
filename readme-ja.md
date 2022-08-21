@@ -19,7 +19,7 @@
 ](https://qiita.com/sharp_NEKO)
 [![](https://img.shields.io/badge/Instagram-186-CF2E92.svg?style=for-the-badge&logo=instagram&logoColor=ffffff)
 ](https://www.instagram.com/sharp_neko/)
-[![](https://img.shields.io/badge/Discord-しゃねこ＃0413-5869ea.svg?style=for-the-badge&logo=discord&logoColor=ffffff)
+[![](https://img.shields.io/badge/Discord-しゃねこ＃0689-5869ea.svg?style=for-the-badge&logo=discord&logoColor=ffffff)
 ](https://discord.com/channels/@me)
 [![](https://img.shields.io/youtube/channel/subscribers/UCVfTRXbphYTjiSP1tZDyMxw?label=YouTube&logo=youtube&style=for-the-badge)
 ](https://www.youtube.com/channel/UCVfTRXbphYTjiSP1tZDyMxw)
